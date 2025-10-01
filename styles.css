@@ -1,0 +1,25 @@
+html {
+    font-family: sans-serif;
+}
+
+.page-title {
+    font-family: "zeplin-vf",sans-serif;
+    font-variation-settings: 'CONY' 23, 'CONX' 1;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.room-heading {
+    font-family: "Rubik Beastly";
+}
+
+.house-item {
+    font-family: Schoolbell;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #555;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    margin: 4px;
+}
